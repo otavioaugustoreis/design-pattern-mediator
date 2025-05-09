@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "design-pattern-mediator", "design-pattern-mediator\design-pattern-mediator.csproj", "{95CB84A7-80A1-4F25-BCE6-7430D0C99D49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CB84A7-80A1-4F25-BCE6-7430D0C99D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CB84A7-80A1-4F25-BCE6-7430D0C99D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CB84A7-80A1-4F25-BCE6-7430D0C99D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CB84A7-80A1-4F25-BCE6-7430D0C99D49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B86B91-4C64-47A7-A8E7-7B7061D85F0E}
+	EndGlobalSection
+EndGlobal
